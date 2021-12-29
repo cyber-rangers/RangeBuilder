@@ -35,6 +35,7 @@
 {"BuildNumber":18362, "VHDName":"W1019H1-Gen2.vhdx", "OSName":"Windows 10 19H1", "Edition":"TBD","SupportedDomainJoin":"blob"},
 {"BuildNumber":18363, "VHDName":"W1019H2-Gen2.vhdx", "OSName":"Windows 10 19H2", "Edition":"TBD","SupportedDomainJoin":"blob"},
 {"BuildNumber":19041, "VHDName":"W1020H1-Gen2.vhdx", "OSName":"Windows 10 20H1", "Edition":"TBD","SupportedDomainJoin":"blob"},
-{"BuildNumber":22000, "VHDName":"W1121H2-Gen2.vhdx", "OSName":"Windows 11 21H1", "Edition":"TBD","SupportedDomainJoin":"blob"}
+{"BuildNumber":22000, "VHDName":"W1121H2-Gen2.vhdx", "OSName":"Windows 11 21H1", "Edition":"TBD","SupportedDomainJoin":"blob"},
+{"BuildNumber":0, "VHDName":"UbuntuDesktop1804-Gen2.vhdx", "OSName":"Ubuntu Desktop 1804", "Edition":"NA","SupportedDomainJoin":"none"}
 ]
 
